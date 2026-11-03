@@ -1,0 +1,8 @@
+D:\Personal Jobs\MyConsoleApp\PizzaApi\obj\Debug\net10.0\PizzaApi.csproj.AssemblyReference.cache
+D:\Personal Jobs\MyConsoleApp\PizzaApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Personal Jobs\MyConsoleApp\PizzaApi\obj\Debug\net10.0\PizzaApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Jobs\MyConsoleApp\PizzaApi\obj\Debug\net10.0\PizzaApi.AssemblyInfoInputs.cache
+D:\Personal Jobs\MyConsoleApp\PizzaApi\obj\Debug\net10.0\PizzaApi.AssemblyInfo.cs
+D:\Personal Jobs\MyConsoleApp\PizzaApi\obj\Debug\net10.0\PizzaApi.csproj.CoreCompileInputs.cache
+D:\Personal Jobs\MyConsoleApp\PizzaApi\obj\Debug\net10.0\PizzaApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Jobs\MyConsoleApp\PizzaApi\obj\Debug\net10.0\PizzaApi.MvcApplicationPartsAssemblyInfo.cache
